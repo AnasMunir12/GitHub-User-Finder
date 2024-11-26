@@ -162,6 +162,7 @@ function Githubfindry() {
               <Typography>{selectedUser.company || "Not Available"}</Typography>
             </Stack>
           </Stack>
+          <Typography mt={7} display={'flex'} justifyContent={'end'}  fontFamily={'serif'} fontWeight={'bold'}>Copyright 2024.Designed By Anas Munir</Typography>
         </Stack>
       )}
     </>
